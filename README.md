@@ -8,6 +8,11 @@ What the Requirements Are
 To solve a single-variable calculus integeral using points on the curve but no formula. 
 The points may be obtained several ways such as a mathematical expression involving several variables which are then ploted.
 That portion would already be set up in the uses of this of program; this program does the calculation.  
+Specficially what the program does is calculate the area under the curve.
+
+This is a example program as is  incomplete in that there is no input / output such as GUI, Button, Remote Control, or Command lIne Interface.
+
+
 
 
 Technical Note
@@ -15,6 +20,11 @@ Technical Note
 Floating Point numbers are only really workable to 5th digit and do NOT round like  scientific notation does. Instead, the mechnnisms used for IEE floating point numbers is a polynomial, which is not how scientific notation rounds.  We leave the rounding off your answer to the appropriate amount of digits back to you to do.
 
 Double numbers are used so that obtaining estimate to within 5% is not impossible , however; sometimes semi quantitive calculations are done as well from measurements. 
+
+Obtaining Calculated Estimate 
+---------------------------------------------------------------------------------------------------------------------------------------
+
+We do some algebraic work on these as if they are real numbers.  We then do the compution on that,  implementing using double, as stated in technical notes. 
 
 
 Error Analysis Due to Calculation
@@ -70,10 +80,7 @@ Draw lines from each point in order, going left to right.  Next, draw lines para
 
 
 
-Obtaining Calculated Estimate 
----------------------------------------------------------------------------------------------------------------------------------------
 
-We do some algebraic work on these as if they are real numbers.  We then do the compution on that,  implementing using double, as stated in technical notes. 
 
 
 
