@@ -53,8 +53,9 @@ Form the remaining rectangles in a similar way.
 
 Consider summing the areas of the rectangles into a formula.  This formula can be shown to be equivalent to the other one by factoring, which verifies it. 
 
-Obtaining Calculated Estimate 
-We do some algebraic work on these as if they are real numbers.  We then do the compution on that,  implementing using double, as stated in technical notes. 
+Algebriac Manuiplatulation
+
+The above formula is then algebrically manuipulated so that we obtain the formula shown in the comments. 
 
 
 Ref. Source B 
@@ -68,6 +69,11 @@ Form the remaining rectangles in a similar way.
 
 Consider summing the areas of the rectangles into a formula.  This formula can be shown to be equivalent to the other one by factoring, which verifies it. 
 
+Algebriac Manuiplatulation
+
+The above formula is then algebrically manuipulated so that we obtain the formula shown in the comments. 
+
+
 
 Refrence Source C 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -80,6 +86,9 @@ Draw lines from each point in order, going left to right.  Next, draw lines para
 
 
 
+Algebriac Manuiplatulation
+
+The above formula is then algebrically manuipulated so that we obtain the formula shown in the comments. 
 
 
 
